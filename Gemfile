@@ -67,4 +67,4 @@ gem 'bootstrap-social-rails'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
-gem 'graphiql-rails', group: :development
+gem 'graphiql-rails', '1.4.10', group: :development
