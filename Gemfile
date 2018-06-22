@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 gem 'graphql'
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 
 
 gem 'bcrypt', '~> 3.1.7'
