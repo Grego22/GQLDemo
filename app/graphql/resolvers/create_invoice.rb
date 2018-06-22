@@ -1,4 +1,4 @@
-class Resolvers::Invoice<GraphQl::Function
+class Resolvers::CreateInvoice<GraphQl::Function
     argument :fee_in_cents, !types.Int
 
    
